@@ -1,6 +1,6 @@
 
 
-import { Route, Router, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import ScanPage from './Components/ScanPage';
 import Qrgenerator from './Components/Qrgenerator';
 import AdminDashboard from './Components/AdminDashboard';
